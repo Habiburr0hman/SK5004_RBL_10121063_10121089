@@ -1,0 +1,7 @@
+data_subset,class_id,class_name,count,percentage
+train,0,diseased,1260,53.0973
+train,1,healthy,1113,46.9027
+validation,0,diseased,270,53.0452
+validation,1,healthy,239,46.9548
+test,0,diseased,270,53.0452
+test,1,healthy,239,46.9548

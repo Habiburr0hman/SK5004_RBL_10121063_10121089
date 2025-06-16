@@ -1,0 +1,16 @@
+data_subset,class_id,class_name,count,percentage
+train,0,bacteria,1489,22.712
+train,1,fungi,1400,21.3545
+train,2,healthy,1113,16.9768
+train,3,mite,1173,17.892
+train,4,virus,1381,21.0647
+validation,0,bacteria,319,22.7046
+validation,1,fungi,300,21.3523
+validation,2,healthy,239,17.0107
+validation,3,mite,251,17.8648
+validation,4,virus,296,21.0676
+test,0,bacteria,319,22.6885
+test,1,fungi,300,21.3371
+test,2,healthy,239,16.9986
+test,3,mite,252,17.9232
+test,4,virus,296,21.0526
