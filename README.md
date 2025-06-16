@@ -1,8 +1,9 @@
 # Tomato Leaf Disease Classification using _Convolutional Neural Network_ (CNN)
 
 ## Introduction
-This is the repository for Research Based Learning (RBL) project from **SK5004 Pembelajaran Mesin dan Kecerdasan Buatan** lecture. This project is created by Melvan Savero Lee (10121063) and Habiburrohman (10121089) with the main objective to classify tomato leaf disease using deep learning method called Convolutional Neural Network (CNN). We hope that the CNN model produced from this project can help farmers to automate the tomato cultivation monitoring activities so the diseased plant can be detected and treated as soon as possible.
+This is the repository for Research Based Learning (RBL) project from **SK5004 Pembelajaran Mesin dan Kecerdasan Buatan** lecture. This project is created by Melvan Savero Lee (10121063) and Habiburrohman (10121089) with the main objective to classify tomato leaf disease using deep learning method called Convolutional Neural Network (CNN). We hope that the CNN model produced from this project can help farmers to automate the tomato cultivation monitoring activities so the diseased plant can be detected and treated as soon as possible. For more information about this project, see [project diagram](./mermaid.md).
 
+## Project Files
 Below is the description of project files and folders.
 1. Utility Files
 - `dataset_builder.py`: Contain class definition to prepare the raw dataset from certain directory and convert it to TFRecord for the use with `tensorflow_datasets` (TFDS) library. 
